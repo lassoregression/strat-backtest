@@ -1,4 +1,3 @@
-# strat-backtest
 <h1>Algorithmic Trading System (MATLAB)</h1>
 
 
